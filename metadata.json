@@ -1,0 +1,6 @@
+{
+  "name": "LearnMap Adaptive Learning Architect",
+  "description": "Hệ sinh thái học tập thích ứng LearnMap với Vũ trụ Tri thức, Socratic Guide, Đèn pin AI, truy hồi đa tầng và Báo cáo Thấu chẩn sư phạm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
